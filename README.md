@@ -16,7 +16,7 @@ Given a dataset of podcast episodes with metadata and engagement stats, your goa
 
 ## 🧰 Tech Stack & Tools
 
-- Python 3.x
+- Python 3.12
 - Pandas, NumPy, Matplotlib, Seaborn
 - Scikit-learn
 - LightGBM
